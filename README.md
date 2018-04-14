@@ -15,11 +15,11 @@ Once the game started a timer will be start and each two clicks will count one m
 
 ## Who can play
 
-Anyone welcome to play, check out [Memory Game](http://mohammedaziz.tk/).
+Anyone welcome to play, check out [Memory Game](http://mohammedaziz.tk/){:target="_blank"}.
 
 ## Development Technology
 
 All the Web development learned so far has been applied
-# HTML.
-# CSS.
-# JavaScript.
+1. HTML.
+2. CSS.
+3. JavaScript.
