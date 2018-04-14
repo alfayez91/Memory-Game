@@ -8,7 +8,7 @@
 
 ## What is this project about
 
-Memory Game Project is a second project in Front-End Web Developer Nanodegree Program by Udacity. It is a memory gave that will start once the card clicked.
+Memory Game Project is a second project in Front-End Web Developer Nanodegree Program by Udacity. It is a memory game that will start once the card clicked.
 If two cards matched it will be shown, otherwise it will be hudden again.
 
 Once the game started a timer will be start and each two clicks will count one move or one click. Stars will be effects with the number of clicks.
