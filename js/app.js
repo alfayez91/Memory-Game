@@ -175,6 +175,7 @@ function resetGame() {
     $('#stars').empty();
     $('#gameSection')[0].style.display = "";
     $('#sucess-result')[0].style.display = "none";
+    removeOpenCards();
     gameStarted=false;
     timer.stop();
     $('#timer').html("00:00:00");
