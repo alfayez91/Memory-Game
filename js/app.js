@@ -188,6 +188,7 @@ function playGame() {
     generateCards();
     $('.card').click(toggleCard);
     $('#moves').html("0 Clicks");
+    clicks = 0;
     addStars(4);
 }
 
