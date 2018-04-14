@@ -92,7 +92,7 @@ function disableCLick() {
 
 // Enable clicks on cards
 function enableClick() {
-    console.log("Cards not matched closing now!");    
+    console.log("Cards not matched closing now!");
     openCards[0].click(toggleCard);
 }
 
@@ -178,6 +178,7 @@ function resetGame() {
     gameStarted=false;
     timer.stop();
     $('#timer').html("00:00:00");
+    console.log("Game reseted!");
     playGame();
 }
 
