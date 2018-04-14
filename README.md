@@ -15,7 +15,8 @@ Once the game started a timer will be start and each two clicks will count one m
 
 ## Who can play
 
-Anyone welcome to play, check out [Memory Game](http://mohammedaziz.tk/){:target="_blank"}.
+Anyone welcome to play, check out [Memory Game](http://mohammedaziz.tk/ " target="_blank).
+Anyone welcome to play, check out [Memory Game](http://mohammedaziz.tk/)[newtab].
 
 ## Development Technology
 
