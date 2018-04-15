@@ -1,5 +1,5 @@
 
-let cardLists = ["fa-balance-scale", "fa-accessible-icon", "fa-ambulance", "fa-graduation-cap", "fa-code", "fa-terminal", "fa-codepen", "fa-tasks"];
+let cardLists = ["fa-balance-scale", "fa-hashtag", "fa-ambulance", "fa-graduation-cap", "fa-code", "fa-terminal", "fa-codepen", "fa-tasks"];
 
 // Declare the number of clicks
 let clicks = 0;
