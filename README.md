@@ -23,3 +23,6 @@ All the Web development learned so far has been applied
 1. HTML.
 2. CSS.
 3. JavaScript.
+4. Font Awesome Icons.
+5. JQuery.
+6. easytimer JS.
